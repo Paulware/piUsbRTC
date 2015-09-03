@@ -3,7 +3,7 @@
 
 Trivial python interface.
 
-<img src="normal.jpg"">
-<img src="upsideDown.jpg">
-<img src="sideView.jpg">
-<img src="withPi.jpg">
+<img src="normal.JPG"">
+<img src="upsideDown.JPG">
+<img src="sideView.JPG">
+<img src="withPi.JPG">
